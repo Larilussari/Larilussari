@@ -25,7 +25,7 @@
   <a href= "https://www.instagram.com/lalalussari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href= "https://www.facebook.com/larissa.lussari.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href= "https://www.tiktok.com/@larissalussari"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href= " wa.me/+5511952813408"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href= "https://wa.me/+5511952813408"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 <div>
   <a href="https://picasion.com/"><img align="right" alt="Lari-gif" src="https://i.picasion.com/pic92/a5b7863c98ef429adb2e26539ce2315e.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a>
