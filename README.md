@@ -1,6 +1,6 @@
 ### Oieee, Sou a Larissa Lussari 👋😍
 
-- 🔭 Sou Analista de negócios Jr no Itaú Unibanco
+- 🔭 Sou Analista de Negócios e Dados Jr no Itaú Unibanco
 - 🌱 Estou estudando Python, HTML e Java (por enquanto.. em breve mais linguagens por ai)
 - 🎓 Estou no 4º Semestre do curso de Tecnologia da Informação na UNIVESP.
 - 👩‍💻 Faço parte do time de alunas da @Descodificadas - Trilha 2
